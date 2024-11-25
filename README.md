@@ -2,7 +2,7 @@
 
 # GP Line - Medical Website 🏥
 
-Welcome to **Simple Routing**, a React-based project for creating a medical website. This project provides a clean and efficient setup for developing a modern medical website with essential features like doctor listings, appointment booking, and information about medical services.
+A React-based project for creating a medical website. This project provides a clean and efficient setup for developing a modern medical website with essential features like doctor listings, appointment booking, and information about medical services.
 
 ---
 
