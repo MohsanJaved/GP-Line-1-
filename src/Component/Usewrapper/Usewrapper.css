@@ -1,0 +1,10 @@
+.Dashboard-body{
+    display: flex;
+    align-items: center;
+}
+.dashboard-content{
+    padding: 12px 8px;
+    height: calc(100vh - 89px);
+    background: rgba(245, 242, 242, 1);
+    flex: 1;
+}
